@@ -1,3 +1,6 @@
+### Welcome to my Coursera R Programming Assignment #2
+### Raul Goycoolea
+
 ### Introduction
 
 This second programming assignment will require you to write an R
